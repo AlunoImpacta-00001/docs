@@ -7,4 +7,4 @@ Bem-vindo à documentação do projeto AlunoImpacta-00001.
 2. Edite este README.md clicando no ícone de lápis.
 3. Adicione suas alterações e clique em **Commit changes**.
 
-**Dúvidas?** Abra uma [issue](https://github.com/AlunoImpacta-00001/documentacao/issues).
+**Dúvidas?** Abra uma [issue](https://github.com/AlunoImpacta-00001/docs/issues).
