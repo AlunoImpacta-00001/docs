@@ -1,10 +1,12 @@
-# Documentação do Projeto
+# Bem-vindo à Documentação do Projeto
 
-Bem-vindo à documentação do projeto AlunoImpacta-00001.
+Esta é a documentação oficial do projeto do grupo **AlunoImpacta-00001**.
 
 ## Como Contribuir
-1. Acesse o repositório no GitHub.
-2. Edite este README.md clicando no ícone de lápis.
-3. Adicione suas alterações e clique em **Commit changes**.
 
-**Dúvidas?** Abra uma [issue](https://github.com/AlunoImpacta-00001/docs/issues).
+Para colaborar com esta documentação, aprenda mais sobre **Markdown** nos seguintes links:
+- [Guia Oficial do GitHub](https://guides.github.com/features/mastering-markdown/)
+- [Sintaxe Básica de Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [Markdown Guide (em português)](https://www.markdownguide.org/basic-syntax/pt/)
+
+Após aprender, você pode editar este README.md ou adicionar novos arquivos na pasta `/docs`.
